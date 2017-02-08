@@ -11,4 +11,4 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
 
 A quick filterable reference for CSS Selectors Level 3 built using isotope.js.
 
-Available at http://dumaurier.github.io/CSS-Selectors-Reference/
+Available at https://dumaurier.github.io/CSS-Selectors-Reference/
