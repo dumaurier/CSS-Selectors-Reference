@@ -1,3 +1,4 @@
+$(document).ready(function() {
 var $container = $('#container'),
       filters = {};
 
@@ -78,3 +79,5 @@ $('#simple_attributes').hide();
 $(".childNav").trigger('click');
 
 });
+      
+ });
